@@ -1,0 +1,26 @@
+# Ignore Mac DS_Store files
+.DS_Store
+target/
+.idea/
+*.iml
+config/troposhpere/templates/
+*.pyc
+*.class
+
+# IntelliJ files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Eclipse file
+.settings/
+.classpath
+.project
+.factorypath
+
+# Maven files
+target/
+scripts/template.json
+scripts/tags.json
+scripts/api.yaml*
